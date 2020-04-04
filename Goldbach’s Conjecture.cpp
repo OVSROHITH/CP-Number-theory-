@@ -1,4 +1,4 @@
-3. UVa 543 - Goldbach’s Conjecture
+ UVa 543 - Goldbach’s Conjecture
 
 https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=484
 
